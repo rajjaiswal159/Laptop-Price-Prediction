@@ -34,11 +34,8 @@ This project aims to predict the price of laptops using regression models. The d
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/laptop-price-prediction.git
-   cd laptop-price-prediction
-   
-2. Install dependencies:
-   pip install -r requirements.txt
-   
-3. Open the notebook::
+   git clone https://github.com/rajjaiswal159/Laptop-Price-Prediction.git
+   cd Laptop-Price-Prediction
+
+2. Open the notebook::
    jupyter notebook notebook/laptop_price.ipynb
